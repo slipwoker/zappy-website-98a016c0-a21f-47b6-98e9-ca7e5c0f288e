@@ -50,4 +50,4 @@ Allow: /
 User-agent: MistralAI-User
 Allow: /
 
-Sitemap: https://gamerot-98a016c0.zappy5.app/sitemap.xml
+Sitemap: https://example.com/sitemap.xml
