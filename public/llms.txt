@@ -1,0 +1,91 @@
+# Gamerot — Generative Engine Optimization Map
+
+> A diverse gaming and lifestyle store offering a wide range of products including gaming PCs, gaming peripherals and accessories, Pop figures (collectibles), beauty products, and more. The store blends gaming culture with pop culture collectibles and lifestyle items, catering to a broad audience of gaming enthusiasts and collectors.
+
+---
+
+## Pages
+
+### בית
+https://gamerot-98a016c0.zappy5.app
+חנות הגיימינג והאספנות שלכם: מחשבי גיימינג משתלמים, בובות פופ לאספנים, ציוד היקפי ומוצרי לייפסטייל. הצטרפו לקהילת הגיימרים והאספנים עוד היום!
+
+### אודות
+https://gamerot-98a016c0.zappy5.app/about
+Gamerot נולדה מאהבה לגיימינג, פופים ותרבות אספנות. גלו מי אנחנו, מה מניע אותנו ולמה אנחנו היעד המושלם לגיימרים ולאספנים בישראל.
+
+### גלריית השראה
+https://gamerot-98a016c0.zappy5.app/gallery
+צללו לגלריית השראה עוצרת נשימה: עמדות גיימינג, אוספי בובות פופ מרהיבים ושילובים מושלמים של סטייל וטכנולוגיה. בואו לקחת רעיונות לממלכה שלכם!
+
+### שאלות נפוצות ויצירת קשר
+https://gamerot-98a016c0.zappy5.app/contact
+שאלות על מחשבי גיימינג, משלוחים או בובות פופ? עמוד השאלות הנפוצות ויצירת הקשר שלנו כאן כדי לעזור. דברו איתנו וקבלו שירות מהיר ומקצועי!
+
+### Products
+https://gamerot-98a016c0.zappy5.app/products
+המוצרים שלנו - Gamerot
+
+### Product Detail
+https://gamerot-98a016c0.zappy5.app/product/:slug
+פרטי המוצר - Gamerot
+
+### Category
+https://gamerot-98a016c0.zappy5.app/category/:slug
+מוצרים - Gamerot
+
+### תודה שפניתם אלינו
+https://gamerot-98a016c0.zappy5.app/thank-you
+Gamerot - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://gamerot-98a016c0.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://gamerot-98a016c0.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://gamerot-98a016c0.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Gamerot
+A diverse gaming and lifestyle store offering a wide range of products including gaming PCs, gaming peripherals and accessories, Pop figures (collectibles), beauty products, and more. The store blends gaming culture with pop culture collectibles and lifestyle items, catering to a broad audience of gaming enthusiasts and collectors.
+
+## Services/Products
+- מחשבי גיימינג
+- ציוד גיימינג
+- בובות פופ
+- מוצרי ליופי
+- מגוון מוצרים נוספים
+
+## Target Audience
+- גיימרים ואספנים
+- חובבי טכנולוגיה
+- הורים לגיימרים צעירים
+
+## Industry
+E-commerce / Gaming & Collectibles
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://gamerot-98a016c0.zappy5.app/sitemap.xml
+- Robots: https://gamerot-98a016c0.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://gamerot-98a016c0.zappy5.app/llms-full.txt
+- Products (JSON): https://gamerot-98a016c0.zappy5.app/products.json
+- Products (Google Merchant RSS): https://gamerot-98a016c0.zappy5.app/product-feed.xml
